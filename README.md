@@ -1,2 +1,2 @@
 # KingServices-ERP
-KingSerrvices - Compras e Estoque
+KingServices - Compras e Estoque
